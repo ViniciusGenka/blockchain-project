@@ -1,2 +1,2 @@
-# nodejs-setup-boilerplate
-Setup básico para projetos NodeJS que inclui: ESLint, Husky, Lint-Staged, CommitLint, TypeScript e Jest.
+# blockchain-project
+Projeto para demonstrar o funcionamento e a teoria por trás da tecnologia Blockchain.

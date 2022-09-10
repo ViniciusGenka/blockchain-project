@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-setup-boilerplate",
+  "name": "blockchain-project",
   "version": "1.0.0",
-  "description": "Setup básico para projetos NodeJS que inclui: ESLint, Husky, Lint-Staged, CommitLint, TypeScript e Jest.",
+  "description": "Projeto para demonstrar o funcionamento e a teoria por trás da tecnologia Blockchain.",
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViniciusGenka/nodejs-setup-boilerplate.git"
+    "url": "git+https://github.com/ViniciusGenka/blockchain-project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViniciusGenka/nodejs-setup-boilerplate/issues"
+    "url": "https://github.com/ViniciusGenka/blockchain-project/issues"
   },
-  "homepage": "https://github.com/ViniciusGenka/nodejs-setup-boilerplate#readme",
+  "homepage": "https://github.com/ViniciusGenka/blockchain-project#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
